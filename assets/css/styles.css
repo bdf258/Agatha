@@ -1,0 +1,156 @@
+img {
+  vertical-align: middle;
+  border-style: none;
+  max-height: 600px;
+}
+
+#top {
+  max-width: 350px;
+  margin-top: 10vh;
+}
+
+.card {
+  max-height: 400px;
+}
+
+.demo {
+  margin-top: 5%;
+}
+
+#modify {
+  max-width: 300px;
+  font-size: 20px;
+}
+
+@media (min-width: 992px) {
+  #nap-col {
+    padding-left: 20%;
+  }
+}
+
+#action {
+  margin-top: 10vh;
+  margin-bottom: 10%;
+}
+
+#remember {
+  padding-bottom: 2%;
+}
+
+#space {
+  height: 100px;
+}
+
+body {
+  background-color: #232323;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-family: 'Alegreya Sans SC';
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.form-control {
+  max-width: 50%;
+  margin: 8px;
+  margin-left: 0;
+}
+
+#tell-me-first {
+  margin: 8px;
+  background-color: rgb(250,138,29);
+  border: none;
+  padding: 6px;
+  font-family: 'Alegreya Sans SC';
+  font-size: 18px;
+}
+
+.material-icons {
+  padding-left: 8px;
+}
+
+#how-to-play {
+  margin-top: 10vh;
+}
+
+#landing {
+  margin-top: -5vh;
+}
+
+.cards {
+  max-height: 50vh;
+}
+
+.h3, h3 {
+  font-size: 24px;
+  color: #232323;
+  font-family: 'Alegreya Sans SC';
+  margin-top: 10vh;
+}
+
+.how-to-play {
+  padding-top: 20vh;
+  padding-bottom: 15vh;
+  background-color: #ffffff;
+}
+
+.pack {
+  max-height: 70vh;
+}
+
+.playtesting {
+  margin-top: 20vh;
+}
+
+#playtesting-title {
+  color: #ffffff;
+  margin: 0;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: #ffffff;
+  font-family: 'Alegreya Sans SC';
+  margin-left: 16px;
+  margin-right: 16px;
+  font-size: 24px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #ffffff;
+  font-family: 'Alegreya Sans SC';
+  margin-left: 16px;
+  margin-right: 16px;
+  font-size: 24px;
+}
+
+#navcol-1 {
+  margin-top: 5vh;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: rgb(250,138,29);
+}
+
+#menu {
+  padding-left: 0;
+}
+
+.footer-basic {
+  margin-top: 20vh;
+}
+
+#playtesting {
+  margin-top: 20vh;
+}
+
+.form-check-label.d-sm-flex.justify-content-sm-center {
+  margin-top: 5vh;
+}
+
+.form-group.d-sm-flex.d-xl-flex.justify-content-sm-center.justify-content-xl-center {
+  margin-top: 5vh;
+}
+
