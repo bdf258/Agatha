@@ -154,6 +154,37 @@ p {
   margin-top: 5vh;
 }
 
-#pdfrules {
-  text-align: center;
+@media (max-width: 600px) {
+  .iframe-div {
+    height: 80vh;
+    width: 80vw;
+    border: 1px solid #fff;
+  }
 }
+
+@media (min-width: 600px) {
+  .iframe-div {
+    height: 80vh;
+    width: 40vw;
+    border: 1px solid #fff;
+  }
+}
+
+@media (min-width: 600px) {
+  .feedback-div {
+    display: block;
+  }
+}
+
+@media (max-width: 600px) {
+  .feedback-div {
+    display: none;
+  }
+}
+
+@media (min-width: 600px) {
+  .feedback-bttn {
+    display: none;
+  }
+}
+
