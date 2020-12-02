@@ -153,3 +153,7 @@ p {
 .form-group.d-sm-flex.d-xl-flex.justify-content-sm-center.justify-content-xl-center {
   margin-top: 5vh;
 }
+
+#pdfrules {
+  text-align: center;
+}
